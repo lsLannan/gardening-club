@@ -2,3 +2,50 @@
     margin: 0;
     padding: 0;
 }
+
+html {
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    display: flex;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: grey;
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    flex-direction: row;
+    gap: 2rem;
+
+}
+
+.navbar a {
+    text-decoration: none;
+}
+
+/* INTRO */
+.intro {
+    background-image: url("https://cdn.pixabay.com/photo/2014/11/27/23/53/hedgehog-548335_960_720.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* SUMMARY */
+
+/* TESTIMONIALS */
+
+/* PHOTOS */
+
+/* MEETUPS */
+
+/* FOOTER *?
